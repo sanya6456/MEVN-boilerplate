@@ -17,6 +17,5 @@
 */node_modules
 node_modules
 
-/client/node_modules
-/client/.DS_Store
+.DS_Store
 /server/public
